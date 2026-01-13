@@ -12,6 +12,8 @@ and AWS
 learn docker,kubernets
 and agentic AI
 
-hello
 
 learn shell script
+
+learn ansible
+
