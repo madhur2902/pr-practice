@@ -15,3 +15,5 @@ and agentic AI
 
 
 learn shell script
+
+learn ansible
